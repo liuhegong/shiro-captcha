@@ -7,6 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>shiro-jcaptcha</module>
+    <module>shiro-kaptcha</module>
   </modules>
   <name>shiro-captcha Maven Webapp</name>
   <url>http://maven.apache.org</url>
